@@ -1,9 +1,3 @@
-# Task_5
-Great, Ajay! Here's your updated `README.md` without emojis and customized with your details:
-
----
-
-```markdown
 # Titanic Survival Data Exploration
 
 This project focuses on statistical and visual exploration of the Titanic dataset using Python libraries such as Pandas, Matplotlib, and Seaborn. The objective is to analyze the patterns and factors that influenced passenger survival.
@@ -61,8 +55,8 @@ The following steps were performed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/titanic-exploration.git
-   cd titanic-exploration
+   git clone https://github.com/ajaygande/Task_5.git
+   cd Task_5
    ```
 
 2. Install required libraries:
@@ -81,3 +75,4 @@ The following steps were performed:
 **Ajay Sudhakar Gande**  
 Email: ajaygande1@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/ajay-gande-5a38b2273](https://www.linkedin.com/in/ajay-gande-5a38b2273)
+
