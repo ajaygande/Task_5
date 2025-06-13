@@ -55,8 +55,8 @@ The following steps were performed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ajaygande/Task_5.git
-   cd Task_5
+   git clone https://github.com/ajaygande/titanic-survival-analysis-python.git
+   cd Titanic_Data_Exploration_Python
    ```
 
 2. Install required libraries:
@@ -64,7 +64,7 @@ The following steps were performed:
    pip install pandas matplotlib seaborn
    ```
 
-3. Open `task_5.ipynb` in Jupyter Notebook or upload it to Google Colab.
+3. Open `Titanic_Data_Exploration_Python.ipynb` in Jupyter Notebook or upload it to Google Colab.
 
 4. Run the notebook to explore the data and generate visualizations.
 
