@@ -56,7 +56,6 @@ The following steps were performed:
 1. Clone this repository:
    ```bash
    git clone https://github.com/ajaygande/titanic-survival-analysis-python.git
-   cd Titanic_Data_Exploration_Python
    ```
 
 2. Install required libraries:
